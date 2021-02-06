@@ -1,8 +1,6 @@
 
-### Hi, This is Harikrushn 👋
+### Hi, This is Keval vavaliya 👋
 
-[![Website](https://img.shields.io/website?label=harikrushn.me&style=for-the-badge&url=https%3A%2F%2Fharikrushn.me)](https://harikrushn.me/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/harikrushn?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hari-kanani-ab777b1a9/)
 
 <img src="https://camo.githubusercontent.com/7cbec0b7f9ad155d851c867c202ff1454ab2649e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" />
 
