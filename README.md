@@ -72,8 +72,8 @@ END_SECTION:activity-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=harikanani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<!--   <img align="left" color="black" alt="Harikrushn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harikanani&show_icons=true&hide_border=true" /> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=kevalvavaliya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<!--   <img align="left" color="black" alt="keval's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevalvavaliya&show_icons=true&hide_border=true" /> -->
 
 </details>
 
