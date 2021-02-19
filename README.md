@@ -1,8 +1,7 @@
 
 ### Hi, This is Keval vavaliya 👋
 
-
-<img src="https://camo.githubusercontent.com/7cbec0b7f9ad155d851c867c202ff1454ab2649e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="200px" />
 
 ## I'm a Programmer, Developer, and Freelancer!!
 
