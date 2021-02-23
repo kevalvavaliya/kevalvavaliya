@@ -83,7 +83,7 @@ END_SECTION:activity-->
 <img src="https://activity-graph.herokuapp.com/graph?username=kevalvavaliya" />
 
 
-[website]: https://kevalvavaliya.tk/
+[website]: https://http://kevalvavaliya.github.io
 [twitter]: https://twitter.com/keval_vavaliya
 [instagram]: https://www.instagram.com/keval_vavliya_/
 [linkedin]: https://www.linkedin.com/in/kevalvavaliya
