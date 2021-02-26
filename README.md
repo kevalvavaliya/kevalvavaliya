@@ -80,7 +80,7 @@ END_SECTION:activity-->
 </details>
 
 <h3> 📈 Github Activity Graph </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=kevalvavaliya" />
+<img src="https://activity-graph.herokuapp.com/graph?username=kevalvavaliya&show_icons=true&count_private=true" />
 
 
 [website]: https://kevalvavaliya.github.io/
