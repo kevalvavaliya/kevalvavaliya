@@ -23,7 +23,7 @@
 <p align="left"> 
 <a href="https://twitter.com/keval_vavaliya" target="blank"><img src="https://img.shields.io/twitter/follow/keval_vavaliya?logo=twitter&style=for-the-badge" alt="kevalvavaliya" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kevalvavaliya"><img src="https://img.shields.io/badge/-keval%20vavaliya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https:/kevalvavaliya.github.io/" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.github.io" alt="kevalvavaliya.github.io" /></a>&nbsp
+<a href="http:/kevalvavaliya.github.io/" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.github.io" alt="kevalvavaliya.github.io" /></a>&nbsp
    <a href="mailto:kevalvavaliya@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevalvavaliya@gmail.com" />
   </a>
