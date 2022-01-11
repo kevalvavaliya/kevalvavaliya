@@ -9,12 +9,11 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
-- 🔭 I just launched my first [website]!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about **Python,JavaScript,Java,Flutter**
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play basketball🏀 .
-- 📫 How to reach me **kevalvavaliya@gmail.com**
+- 📫 How to reach me **contact@kevalvavaliya.tech**
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevalvavaliya/](https://www.linkedin.com/in/kevalvavaliya/)
 
 
