@@ -22,7 +22,7 @@
 <p align="left"> 
 <a href="https://twitter.com/keval_vavaliya" target="blank"><img src="https://img.shields.io/twitter/follow/keval_vavaliya?logo=twitter&style=for-the-badge" alt="kevalvavaliya" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kevalvavaliya"><img src="https://img.shields.io/badge/-keval%20vavaliya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="http:/kevalvavaliya.github.io/" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.github.io" alt="kevalvavaliya.github.io" /></a>&nbsp
+<a href="https://kevalvavaliya.tech" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.tech&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.tech" alt="kevalvavaliya.tech" /></a>&nbsp
    <a href="mailto:kevalvavaliya@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevalvavaliya@gmail.com" />
   </a>
@@ -32,6 +32,12 @@
 
 ## Languages and Tools:
 <p align="left">
+    <a href="https://dart.dev/" target="_blank"> 
+        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
+    </a>
+    <a href="https://flutter.dev/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
+    </a>
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 
@@ -56,65 +62,26 @@
     <a href="https://www.javascript.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="Type Script" width="50" height="50"/></code> 
-    </a> 
     <a href="https://reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://nodejs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://www.npmjs.com/package/express" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://redis.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://dart.dev/" target="_blank"> 
-        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
-    </a>
-    <a href="https://flutter.dev/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
     </a>
     <a href="https://getbootstrap.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
-    </a>    
-    <a href="https://atom.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/></code> 
     </a>
-    <a href="https://www.vim.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/></code> 
-    </a> 
     <a href="https://www.heroku.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
     </a> 
-    <a href="https://bitbucket.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://gitlab.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="BitBucket" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></code> 
-    </a> 
     <a href="https://www.postgresql.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.nginx.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></code> 
-    </a> 
+    </a>
     <a href="https://postman.com" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://docker.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.linux.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
