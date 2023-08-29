@@ -51,4 +51,3 @@
 <img src="https://komarev.com/ghpvc/?username=kevalvavaliya&&style=flat-square" align="center" />
 </div>  
  
- ### ![keval's github activity graph](https://activity-graph.herokuapp.com/graph?username=kevalvavaliya&theme=nord) 
