@@ -1,6 +1,8 @@
 
 ---
-<img alt="Night Coding" src="https://cdn.discordapp.com/attachments/774181841535238165/888716976099315732/163195674651248707.png" height="300px" width="100%" />
+<!--![keval](https://github.com/kevalvavaliya/kevalvavaliya/assets/72963356/17fac04b-d949-4078-baf1-1b5ce1b12c9f)-->
+
+![keval](https://github.com/kevalvavaliya/kevalvavaliya/assets/72963356/54096e10-ca22-41b8-8e88-284acacbde22)
 
 ---
 <h1 align="center"> नमस्ते 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Keval Vavaliya! </h1>
