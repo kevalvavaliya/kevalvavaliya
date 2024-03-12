@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about **Python,Java,Flutter,Android**
 - ⚡ Fun fact: I love to play basketball🏀 .
-- 📫 How to reach me **contact@kevalvavaliya.tech**
+- 📫 How to reach me **kevalvavaliya@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevalvavaliya/](https://www.linkedin.com/in/kevalvavaliya/)
 
 
@@ -24,7 +24,7 @@
 <p align="left"> 
 <a href="https://twitter.com/keval_vavaliya" target="blank"><img src="https://img.shields.io/twitter/follow/keval_vavaliya?logo=twitter&style=for-the-badge" alt="kevalvavaliya" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kevalvavaliya"><img src="https://img.shields.io/badge/-keval%20vavaliya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://kevalvavaliya.tech" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.tech&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.tech" alt="kevalvavaliya.tech" /></a>&nbsp
+<a href="https://kevalvavaliya.me" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.me&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.me" alt="kevalvavaliya.me" /></a>&nbsp
    <a href="mailto:kevalvavaliya@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevalvavaliya@gmail.com" />
   </a>
